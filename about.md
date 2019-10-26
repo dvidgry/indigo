@@ -4,43 +4,30 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>Javascript</li>
+	<li>TypeScript</li>	
+	<li>NodeJS - NestJS</li>
+	<li>Angular (versions 2 -> 8)</li>
+	<li>Cordova</li>	
+	<li>Ionic 3 & 4</li>
+	<li>Ruby</li>
+	<li>HTML</li>
+    <li>CSS (Sass, Less)</li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
+	<li>Docker</li>
 	<li>MySQL - MongoDB</li>
+	<li>iOS & Android mobile app deployment</li>
+	<li>Guitarist</li>
+	<li>TDD (Jest, SuperTest, Mocha, Chai, Sinon)</li>
 	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Contributions</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://apps.apple.com/us/app/corresilience/id1378279695">CorResilience</a></li>
+	<li><a href="http://www.thekentglasscompany.co.uk/">The Kent Glass Company</a></li>
 </ul>
